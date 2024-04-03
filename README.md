@@ -1,5 +1,7 @@
 # Tkinter Password Manager
 
+![Example Image](https://github.com/Saul999/images/blob/main/password_readme_image.jpg)
+
 ## Introduction
 
 This is a simple password manager application built using Tkinter, a standard GUI library in Python. The application generates random passwords and allows users to save them to a local file securely.
