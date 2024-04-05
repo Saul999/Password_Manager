@@ -32,3 +32,6 @@ Follow the on-screen instructions to generate and save passwords.
 The application's GUI is built using Tkinter, providing a user-friendly interface.
 Random passwords are generated using Python's random module.
 Passwords are saved to a local file in a secure manner.
+
+
+(Referenced Dr. Angelu Yu's 100 Days of Python Course)
